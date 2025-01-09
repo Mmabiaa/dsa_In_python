@@ -1,0 +1,3 @@
+Search for 'banana': 20
+After Deletion, Search for 'apple': None
+After Resize, Search for 'banana': 20
