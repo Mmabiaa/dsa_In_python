@@ -1,0 +1,6 @@
+Original Array: [1, 2, 3, 4, 5]
+After Insertion: [1, 2, 10, 3, 4, 5]
+After Deletion: [1, 2, 10, 4, 5]
+Index of 10: 2
+After Update: [1, 20, 10, 4, 5]
+Traversed Array: [1, 20, 10, 4, 5]
