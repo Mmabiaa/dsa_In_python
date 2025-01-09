@@ -92,7 +92,7 @@ Navigate to the desired directory (e.g., `arrays`, `linked_list`, etc.) to find 
 
 ## Contributing
 
-We welcome contributions to enhance this repository! If you're interested in contributing, please review our guidelines in the `CONTRIBUTING.md` file.
+We welcome contributions to enhance this repository! If you're interested in contributing, please review our guidelines in the [Contribution](https://github.com/Mmabiaa/dsa_In_python/blob/main/CONTRIBUTION.md) file.
 
 ## License
 
