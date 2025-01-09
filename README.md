@@ -34,7 +34,7 @@ Below is a list of the Data Structures and Algorithms implemented in this reposi
 Each implementation includes a corresponding Python file (`.py`) along with a markdown file (`.md`) that explains the concept in detail, discusses operations and complexities, and provides example usage.
 
 ## Directory Structure
-`
+```
 DSA/
 |──Data Structure/
 |
@@ -73,7 +73,7 @@ DSA/
 │   └── dynamic_programming.md  # Explanation and details for Dynamic Programming
 ├── README.md             # Project README
 └── CONTRIBUTING.md       # Contribution Guidelines
-`
+```
 
 ## How to Use
 
