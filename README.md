@@ -81,7 +81,7 @@ DSA/
 
 To get started with this repository on your local machine, clone it using the following command:
 
-`git clone https://github.com/mmabiaa/dsa-in-python.git`
+`git clone https://github.com/mmabiaa/dsa_In_python.git`
 
 
 
