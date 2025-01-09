@@ -81,7 +81,7 @@ DSA/
 
 To get started with this repository on your local machine, clone it using the following command:
 
-`git clone https://github.com/mmabiaa/dsa-in-python.git`
+`git clone https://github.com/mmabiaa/dsa_In_python.git`
 
 
 
@@ -92,7 +92,7 @@ Navigate to the desired directory (e.g., `arrays`, `linked_list`, etc.) to find 
 
 ## Contributing
 
-We welcome contributions to enhance this repository! If you're interested in contributing, please review our guidelines in the `CONTRIBUTING.md` file.
+We welcome contributions to enhance this repository! If you're interested in contributing, please review our guidelines in the [Contribution](https://github.com/Mmabiaa/dsa_In_python/blob/main/CONTRIBUTION.md) file.
 
 ## License
 
