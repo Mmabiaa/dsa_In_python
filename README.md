@@ -35,8 +35,10 @@ Each implementation includes a corresponding Python file (`.py`) along with a ma
 
 ## Directory Structure
 
-dsa-python/
-├── arrays/
+```
+DSA/
+|──Data Structure/
+|   ├── arrays/
 │   ├── array.py         # Python code for Array operations
 │   └── array.md         # Explanation and details for Array
 ├── linked_list/
@@ -63,19 +65,24 @@ dsa-python/
 ├── trie/
 │   ├── trie.py          # Python code for Trie operations
 │   └── trie.md          # Explanation and details for Trie
-├── dynamic_programming/
+|
+|──Algorithm/
+|   ├── dynamic_programming/
 │   ├── dynamic_programming.py  # Python code for Dynamic Programming
 │   └── dynamic_programming.md  # Explanation and details for Dynamic Programming
 ├── README.md             # Project README
 └── CONTRIBUTING.md       # Contribution Guidelines
 
+```
 
 ## How to Use
 
 ### Clone the Repository
 
 To get started with this repository on your local machine, clone it using the following command:
-git clone https://github.com//dsa-python.git
+
+`git clone https://github.com/mmabiaa/dsa-in-python.git`
+
 
 
 ### Running the Code
