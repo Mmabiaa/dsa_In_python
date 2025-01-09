@@ -34,11 +34,11 @@ Below is a list of the Data Structures and Algorithms implemented in this reposi
 Each implementation includes a corresponding Python file (`.py`) along with a markdown file (`.md`) that explains the concept in detail, discusses operations and complexities, and provides example usage.
 
 ## Directory Structure
+
 ```
 DSA/
 |──Data Structure/
-|
-├── arrays/
+|   ├── arrays/
 │   ├── array.py         # Python code for Array operations
 │   └── array.md         # Explanation and details for Array
 ├── linked_list/
@@ -67,12 +67,12 @@ DSA/
 │   └── trie.md          # Explanation and details for Trie
 |
 |──Algorithm/
-|
-├── dynamic_programming/
+|   ├── dynamic_programming/
 │   ├── dynamic_programming.py  # Python code for Dynamic Programming
 │   └── dynamic_programming.md  # Explanation and details for Dynamic Programming
 ├── README.md             # Project README
 └── CONTRIBUTING.md       # Contribution Guidelines
+
 ```
 
 ## How to Use
@@ -80,7 +80,9 @@ DSA/
 ### Clone the Repository
 
 To get started with this repository on your local machine, clone it using the following command:
+
 `git clone https://github.com/mmabiaa/dsa-in-python.git`
+
 
 
 ### Running the Code
