@@ -31,7 +31,7 @@ A **Deque** is a linear data structure that allows insertion and deletion of ele
 - **Space Complexity**: O(n), where n is the number of elements in the deque.
 
 ## Example Usage
-
+```
 deque = Deque()
 deque.add_rear(1)
 deque.add_rear(2)
