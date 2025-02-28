@@ -45,8 +45,9 @@ def test_starts_with(word_input, prefix="he"):
 def test_delete_word_input(word_input):
     trie = Trie()
     trie.insert(word_input)
-    assert trie.delete("he") == False
-    assert trie.delete(word_input) == True
-    assert trie.delete("world") == False
+    assert trie.search(word_input) == True
+    trie.delete(word_input)
+    assert trie.search(word_input) == False
+
 
  

@@ -2,3 +2,5 @@
 DSA/.pytest_cache/
 DSA/Tests/.pytest_cache/
 DSA/Config/.pytest_cache/
+.pytest_cache/
+DSA/.pytest_cache/
