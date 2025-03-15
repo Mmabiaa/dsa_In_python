@@ -1,7 +1,4 @@
-# Steps to DDA line Algorithm
-'''
-    
-'''
+# Algorithm for DDA line Algorithm
 def accept_x2():
     x2 = int(input('Enter x2: '))
     return x2
