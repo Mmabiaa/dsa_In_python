@@ -84,7 +84,6 @@ To get started with this repository on your local machine, clone it using the fo
 `git clone https://github.com/mmabiaa/dsa_In_python.git`
 
 
-
 ### Running the Code
 
 Navigate to the desired directory (e.g., `arrays`, `linked_list`, etc.) to find the relevant `.py` file. You can run any script directly using Python:
